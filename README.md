@@ -1364,4 +1364,4 @@ Signed,
 - Aditya Bando ([@adityabando](https://github.com/AdityaBando)), IT Student, DTU, Delhi, India
 - Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
 - Dimitlios Kartsompanis ([@Deimo08](https://github.com/Deimo08)), Software Engineer, Earth
-- Umar Haruna Abdullahi ([@umarbrowser](https://github.com/umarbrowser)), C.E.O Python Nigeria, Gombe, Nigeria
+- Umar Abdullahi ([@umarbrowser](https://github.com/umarbrowser)), Founder PythonNigeria/BlenderNigeria, Gombe State,Nigeria
